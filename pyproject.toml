@@ -18,8 +18,9 @@ dask-labextension = "^5.0.2"
 black = "^21.6b0"
 isort = "^5.8.0"
 flake8 = "^3.9.2"
-scikit-surprise = "^1.1.1"
 dask = {extras = ["complete"], version = "^2021.6.1"}
+scholarly = "^1.2.0"
+tqdm = "^4.61.1"
 
 [tool.poetry.dev-dependencies]
 
